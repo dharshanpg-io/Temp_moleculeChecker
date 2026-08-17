@@ -31,8 +31,4 @@ A beautiful, interactive web application built with **Streamlit** and **RDKit** 
    streamlit run streamlit_app.py
    ```
 
-## 👨‍🎓 Developer
-- **Name:** A ANIS FATHIMA
-- **Reg No:** RA2511026050314
-- **Class / Sec:** AIML / A
-- **Year / Sem:** I / II
+
